@@ -50,12 +50,9 @@ header .container {
   align-items: center;
 }
 
-.row {
-  display: flex;
-}
-
-.column {
-  flex: 75%;
+.columns {
+  display: grid;
+  grid-template-columns: 50% 50%;	
 }
 
 .menu {
