@@ -51,13 +51,6 @@ header .container {
 }
 
 
-h2 .container {
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
-}
-
-
 .columns {
   display: grid;
   grid-template-columns: 33% 33% 33%;	
