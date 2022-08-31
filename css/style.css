@@ -44,11 +44,14 @@ header {
   box-shadow: var(--header-shadow);
 }
 
-h2 {
-  box-shadow: var(--header-shadow);
+header .container {
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
 }
 
-header .container {
+
+h2 .container {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
