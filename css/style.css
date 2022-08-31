@@ -50,6 +50,14 @@ header .container {
   align-items: center;
 }
 
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
 .menu {
   display: flex;
   gap: 2rem;
