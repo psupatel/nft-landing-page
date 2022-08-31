@@ -55,7 +55,7 @@ header .container {
 }
 
 .column {
-  flex: 50%;
+  flex: 75%;
 }
 
 .menu {
