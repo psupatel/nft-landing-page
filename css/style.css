@@ -30,7 +30,7 @@ body {
   font-family: var(--font-primary);
 }
 
-hr.new1 {
+hr {
   border-top: 1px solid #66b3ff;
 }
 
