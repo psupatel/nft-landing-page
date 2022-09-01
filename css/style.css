@@ -30,6 +30,10 @@ body {
   font-family: var(--font-primary);
 }
 
+hr.new1 {
+  border-top: 1px solid #66b3ff;
+}
+
 .container {
   display: flex;
   flex-direction: column;
