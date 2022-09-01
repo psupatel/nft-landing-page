@@ -28,6 +28,9 @@ body {
   height: 100vh;
   color: var(--font-color);
   font-family: var(--font-primary);
+  hr {
+  border-top: 2px solid #66b3ff;
+}
 }
 
 
@@ -37,6 +40,9 @@ body {
   max-width: 960px;
   margin: 0 auto;
   padding: 1rem 2rem;
+  hr {
+  border-top: 2px solid #66b3ff;
+}
 }
 
 /* HEADER */
@@ -63,9 +69,6 @@ header .container {
   align-items: center;
 }
 
-.hr {
-  border-top: 2px solid #66b3ff;
-}
 
 /* BUTTONS */
 
