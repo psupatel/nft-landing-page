@@ -30,9 +30,6 @@ body {
   font-family: var(--font-primary);
 }
 
-hr {
-  border-top: 1px solid #66b3ff;
-}
 
 .container {
   display: flex;
@@ -64,6 +61,10 @@ header .container {
   display: flex;
   gap: 2rem;
   align-items: center;
+}
+
+.hr {
+  border-top: 2px solid #66b3ff;
 }
 
 /* BUTTONS */
