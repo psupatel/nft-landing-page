@@ -33,6 +33,15 @@ body {
 }
 }
 
+a {
+  color: #34FAED;
+}
+a:visited {
+  color: #FAFA11;
+}
+a:hover, a:active, a:focus {
+  color:#c33;
+}
 
 .container {
   display: flex;
