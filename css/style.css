@@ -51,6 +51,11 @@ a:hover, a:active, a:focus {
   padding: 1rem 2rem;
 }
 
+h4, h5, h6, h7
+{
+font-weight: normal;
+}
+
 /* HEADER */
 
 header {
