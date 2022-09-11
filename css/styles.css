@@ -33,8 +33,8 @@ padding-right: 2rem;
 }
 
 .alignleft {
-	float: left;
-}
+      text-align: left;
+    }
 
 .columns {
   display: grid;
