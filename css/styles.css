@@ -32,6 +32,9 @@ padding-right: 2rem;
   padding: 2rem 1rem;
 }
 
+.alignleft {
+	float: left;
+}
 
 .columns {
   display: grid;
